@@ -1,22 +1,4 @@
-/* @ MEDIA  */
 
-@media (max-width:576px) {
-  
-  .big-heading {
-    font-size: 3rem;
-  }
-  
-  .section-heading, .testimonial-text, .price-text {
-    font-size: 2.2rem; 
-  }
-    
-   .testimonial-image, .testimonial-logo {
-     width: 20%;
-   }
-  
-  }
-  
-  
 body {
   font-family: 'Montserrat', sans-serif;
   text-align: center;

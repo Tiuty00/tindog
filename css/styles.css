@@ -183,6 +183,22 @@ p {
     width: 20%;
   }
   
+  #pricing {
+    padding:80px;
+  }
+ 
+  .container-fluid {
+    padding: 13% 11%;
+  }
+  
+}
+
+@media (max-width: 450px) {
+  
+   #pricing {
+    padding:80px 65px;
+  }
+  
 }
 
 @media (max-width: 400px) {
@@ -190,5 +206,10 @@ p {
    .testimonial-image, .press-logo {
     width: 30%;
   }
+  
+  #pricing {
+    padding:70px 50px;
+  }
+  
 }
   

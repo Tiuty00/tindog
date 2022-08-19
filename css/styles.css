@@ -184,3 +184,11 @@ p {
   }
   
 }
+
+@media (max-width: 400px) {
+  
+   .testimonial-image, .press-logo {
+    width: 30%;
+  }
+}
+  

@@ -167,3 +167,17 @@ p {
 .social-img {
   margin: 20px 10px;
 }
+
+
+@media (max-width: 576px) {
+  
+  .big-heading {
+    font-size: 2.5rem;
+  }
+  
+  .testimonial-text, .section-heading, .price-text {
+    font-size: 2rem;
+  }
+  
+  
+}
